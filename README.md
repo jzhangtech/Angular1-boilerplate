@@ -1,6 +1,6 @@
 # Angular1-boilerplate
 
-Boilerplate for angular1 projects, using requireJs for aysnc script loading 
+Boilerplate for angular1 projects, using requireJs for script management 
 
 # Included libararies
 
