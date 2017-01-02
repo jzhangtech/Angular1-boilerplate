@@ -4,8 +4,8 @@ define([], function()
     {
         var directive = {};
         directive.restrict = 'E';
-        //directive.templateUrl = 'app/main/template/sampleTemplate.html';
-        directive.template = '<div>sample directive</div>'
+        directive.templateUrl = 'app/main/template/sampleTemplate.html';
+        //directive.template = '<div>sample directive</div>'
         directive.controller = function($scope)
         {
 
